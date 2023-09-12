@@ -15,10 +15,21 @@ Website developed in React.Js and Django
 
 ### Website Views
 
-<img width="322" alt="Home" src="https://github.com/devanshigarg01/housepartyApp/assets/75984570/f27d9550-767c-4cc0-a62e-5c612f79a61e">
-<img width="415" alt="create" src="https://github.com/devanshigarg01/housepartyApp/assets/75984570/e39aff04-dc39-4313-9d95-19820cd80707">
-<img width="279" alt="join" src="https://github.com/devanshigarg01/housepartyApp/assets/75984570/83ce27db-797a-41d3-acf0-66d3e7018a5b">
-<img width="958" alt="player" src="https://github.com/devanshigarg01/housepartyApp/assets/75984570/7f11e713-aec1-432a-86b1-8cb800eed1cd">
+Landing Page
+
+<img width="953" alt="Home" src="https://github.com/devanshigarg01/housepartyApp/assets/75984570/042e8385-a299-4326-87b6-6e4ba3da016b">
+
+Create Room Page
+
+<img width="959" alt="create" src="https://github.com/devanshigarg01/housepartyApp/assets/75984570/f75b531c-eb77-41db-8ce7-c3b14a3e6cd3">
+
+Join Room Page
+
+<img width="956" alt="join" src="https://github.com/devanshigarg01/housepartyApp/assets/75984570/925f5dcb-11ad-49cc-bab4-5693ce603460">
+
+Music Player
+
+<img width="958" alt="player" src="https://github.com/devanshigarg01/housepartyApp/assets/75984570/fb84f137-a110-4923-bce1-460daa1396c2">
 
 
 
