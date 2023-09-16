@@ -1,4 +1,4 @@
-# HouseParty App : A collaborative spotify playback application
+# Collaborative Spotify: A collaborative Spotify playback application for synchronized song playback
 
 Website developed in React.Js and Django
 
@@ -17,22 +17,52 @@ Website developed in React.Js and Django
 
 #### Landing Page
 
-<img width="953" alt="Home" src="https://github.com/devanshigarg01/housepartyApp/assets/75984570/042e8385-a299-4326-87b6-6e4ba3da016b">
+<img width="953" alt="Home" src="https://github.com/Mitali-Potdar/Collaborative-Spotify/blob/main/images/home.jpg">
 
 #### Create Room Page
 
-<img width="959" alt="create" src="https://github.com/devanshigarg01/housepartyApp/assets/75984570/f75b531c-eb77-41db-8ce7-c3b14a3e6cd3">
+<img width="959" alt="Create" src="https://github.com/Mitali-Potdar/Collaborative-Spotify/blob/main/images/create.jpg">
 
 #### Join Room Page
 
-<img width="956" alt="join" src="https://github.com/devanshigarg01/housepartyApp/assets/75984570/925f5dcb-11ad-49cc-bab4-5693ce603460">
+<img width="956" alt="Join" src="https://github.com/Mitali-Potdar/Collaborative-Spotify/blob/main/images/join.jpg">
 
 #### Music Player
 
-<img width="958" alt="player" src="https://github.com/devanshigarg01/housepartyApp/assets/75984570/fb84f137-a110-4923-bce1-460daa1396c2">
+<img width="958" alt="Player" src="https://github.com/Mitali-Potdar/Collaborative-Spotify/blob/main/images/room.jpg">
 
+## Setup Instructions
 
+### Install Required Python Modules
 
+```bash
+pip install -r requirements.txt
+```
+### Start Web Server
 
+Run the Django web server.
+```bash
+python manage.py runserver
+```
+
+### [Install Node.js](https://nodejs.org/en/)
+
+### Install Node Modules
+
+cd into the ```frontend``` folder.
+```bash
+cd frontend
+```
+Install all dependicies.
+```bash
+npm i
+```
+
+### Compile the Front-End
+
+Run the production compile script
+```bash
+npm run build
+```
 
 
